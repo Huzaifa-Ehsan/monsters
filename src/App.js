@@ -32,7 +32,7 @@ export default class App extends React.Component {
     )
     return (
       <div className="App">
-        <h1>Rolodex</h1>
+        <h1>Monsters Rolodex</h1>
         <SearchBox
           placeholder="search monsters"
           handleChange={this.handleChange}
